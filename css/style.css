@@ -1,0 +1,133 @@
+body{
+    background-color: rgb(98, 134, 123);
+}
+.log-in{
+    text-align: right;
+    margin-top: 20px;
+}
+
+.top{
+    background-color: rgb(97, 135, 123);
+    color: black;
+}
+
+.sign-up{
+font-size: 19px;
+font-weight: bold;
+display: inline;
+padding: 7px;
+margin: 7px;
+
+
+}
+
+.David{
+    text-align: center;
+    padding: 10px;
+    font-style: oblique;
+}
+
+.banner{
+    text-align: center;
+}
+
+.test{
+    color: black;
+    display: inline;
+    font-size: 18px;
+    padding: 15px;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.botton{
+    background-color: rgb(97, 135, 123);
+}
+
+
+.div{
+    text-align: center;
+}
+
+.top-cloud{
+    width: 250px;
+    height: 150px;
+    position: relative;
+    left:500px;
+}
+.middle-cloud{
+    width: 200px;
+    height: 150px;
+    position: relative;
+    top: 150px;
+    left: 200px;
+}
+
+.lower-cloud{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    right: 100px;
+
+}
+
+.land{
+    height: 600px;
+    width: 100%;
+}
+
+#profile{
+    text-align: center;
+    display: inline;
+}
+
+.profile{
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+}
+
+#program{
+margin: 20px;
+position: relative;
+left: 23%;
+}
+
+#flat{
+    margin: 20px;
+    position: relative;
+    left: 650px;
+}
+
+.p{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bottom-container{
+    text-align: left;
+    left: 30px;
+}
+
+.btn{
+    margin-left: 10px;
+}
+
+.btno{
+    position: absolute;
+    right: 20px;
+    font-size: 15px;
+}
+
+.btnp{
+    position: absolute;
+    right: 100px;
+    font-size: 15px;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+    display: inline;
+}
